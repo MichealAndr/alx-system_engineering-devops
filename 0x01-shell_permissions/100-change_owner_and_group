@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vimcent:staff *
+chmod chown vimcent:staff *
