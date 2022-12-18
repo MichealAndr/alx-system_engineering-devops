@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod chown vimcent:staff *
+ chown vincent:staff *
